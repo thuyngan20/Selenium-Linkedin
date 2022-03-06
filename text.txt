@@ -1,0 +1,578 @@
+<ul class="reusable-search__entity-result-list list-style-none">
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<div class="EntityPhoto-circle-3-ghost-person ivm-view-attr__ghost-entity">
+<!-- --> </div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" data-artdeco-is-focused="true" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Senior Python Developer at Grasshopper<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current: Senior<span class="white-space-pre"> </span><strong><!-- -->Python<!-- --></strong><span class="white-space-pre"> </span><!-- --><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at Grasshopper<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember164" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5103AQHyfNBc0xqcag/profile-displayphoto-shrink_100_100/0/1547624159971?e=1651708800&amp;v=beta&amp;t=Bz-OI4OQknPpv_szrsTgfHfJbiE5Uc7xjRxCCU1vgMA"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python Developer at NetPower AS<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Ho Chi Minh City, Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Past: Odoo<span class="white-space-pre"> </span><strong><!-- -->developer<!-- --></strong><span class="white-space-pre"> </span>at Novobi<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember165" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5603AQFUimvADDPlZQ/profile-displayphoto-shrink_100_100/0/1640691726773?e=1651708800&amp;v=beta&amp;t=rdrxL4D2FhjnxxlG0uXean8KwGr6yZQn0HWAborOxNw"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python Developer<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Past:<span class="white-space-pre"> </span><strong><!-- -->Python<!-- --></strong><span class="white-space-pre"> </span><!-- --><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at TMA Solutions<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember166" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5103AQG8fjVY6yfugw/profile-displayphoto-shrink_100_100/0/1583605905614?e=1651708800&amp;v=beta&amp;t=6pSqzKo_nu55XA94Fcj6dZtkeGEP9ABYlo66q_ZMa6A"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Backend Developer (Python)<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Ho Chi Minh City, Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current: Backend<span class="white-space-pre"> </span><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at MINERVA TECHNOLOGY SOLUTIONS JSC<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember167" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5103AQFpvgJXnuNs1Q/profile-displayphoto-shrink_100_100/0/1565754882964?e=1651708800&amp;v=beta&amp;t=33bfgsv95450rE1a8Dlcv7UaICrr_a6hQcg4CMrG42I"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python Developer<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current: Odoo<span class="white-space-pre"> </span><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at ITMS Group<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<div class="EntityPhoto-circle-3-ghost-person ivm-view-attr__ghost-entity">
+<!-- --> </div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python developer at EMOTIV<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Hanoi<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current: Back-end<span class="white-space-pre"> </span><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at EMOTIV<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember168" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5603AQGXVl9b_o81xQ/profile-displayphoto-shrink_100_100/0/1516424713628?e=1651708800&amp;v=beta&amp;t=Yh4VYMguD5srMbRcFdhkFB9KrxqdAxHL3_fVERgB7bw"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->python developer<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Hai Bà Trưng District<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current:<span class="white-space-pre"> </span><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at yopaz<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember169" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5103AQG6yhgpDUNfBQ/profile-displayphoto-shrink_100_100/0/1573084735294?e=1651708800&amp;v=beta&amp;t=oeBLK5WaNXFvU6-5i3RDEah_37qMOHOHhulu2cXg1Uw"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python Developer at Cốc Cốc<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Summary: I want to become a<span class="white-space-pre"> </span><strong><!-- -->Developer<!-- --></strong><!-- -->. For the far future, my super goal is becoming a good Team Lead...<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember170" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5603AQELe-0O-we-qQ/profile-displayphoto-shrink_100_100/0/1552040620576?e=1651708800&amp;v=beta&amp;t=UjSOQpq1KS8cBlea7rYD8wVGBkPDhF5dbdELsWXae_c"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python Developer at Orenda<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Vietnam<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current:<span class="white-space-pre"> </span><strong><!-- -->Python<!-- --></strong><span class="white-space-pre"> </span><!-- --><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at Orenda<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+<li class="reusable-search__result-container">
+<div class="entity-result" data-chameleon-result-urn="urn:li:member:headless">
+<div class="entity-result__item">
+<div class="entity-result__universal-image">
+<div class="display-flex align-items-center">
+<a aria-hidden="true" class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 EntityPhoto-circle-3 lazy-image ember-view" id="ember171" loading="lazy" src="https://media-exp1.licdn.com/dms/image/C5603AQHzIccHdfNFcw/profile-displayphoto-shrink_100_100/0/1596775949700?e=1651708800&amp;v=beta&amp;t=GwpNeLE2AnY7KFwea_g2CLqV1dP6CZxyGbzwqxWKaIg"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="entity-result__content entity-result__divider pt3 pb3 t-12 t-black--light">
+<div class="mb1">
+<div class="t-roman t-sans">
+<div class="display-flex">
+<span class="entity-result__title-line entity-result__title-line--2-lines">
+<span class="entity-result__title-text t-16">
+<a class="app-aware-link" href="https://www.linkedin.com/search/results/people/headless?origin=CLUSTER_EXPANSION&amp;keywords=python%20developer">
+<!-- -->LinkedIn Member<!-- -->
+</a>
+<!-- --> </span>
+</span>
+<!-- --></div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<div>
+<div class="entity-result__primary-subtitle t-14 t-black t-normal">
+<!-- -->Python Developer at CMC Global<!-- -->
+</div>
+<div class="entity-result__secondary-subtitle t-14 t-normal">
+<!-- -->Hanoi Capital Region<!-- -->
+</div>
+</div>
+</div>
+</div>
+<div class="linked-area flex-1 cursor-pointer">
+<p class="entity-result__summary entity-result__summary--2-lines t-12 t-black--light">
+<!-- -->Current:<span class="white-space-pre"> </span><strong><!-- -->Python<!-- --></strong><span class="white-space-pre"> </span><!-- --><strong><!-- -->Developer<!-- --></strong><span class="white-space-pre"> </span>at CMC Global Company Limited.<!-- -->
+</p>
+</div>
+<!-- --> </div>
+<div class="entity-result__actions entity-result__divider entity-result__actions--empty">
+<!-- --> <!-- -->
+</div>
+</div>
+</div>
+<!-- -->
+</li>
+</ul>
